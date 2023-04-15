@@ -1,0 +1,15 @@
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/bin/Debug/net6.0/Unit 2 - Pig Latin Lab
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/bin/Debug/net6.0/Unit 2 - Pig Latin Lab.deps.json
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/bin/Debug/net6.0/Unit 2 - Pig Latin Lab.runtimeconfig.json
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/bin/Debug/net6.0/Unit 2 - Pig Latin Lab.dll
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/bin/Debug/net6.0/Unit 2 - Pig Latin Lab.pdb
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.csproj.AssemblyReference.cache
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.AssemblyInfoInputs.cache
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.AssemblyInfo.cs
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.csproj.CoreCompileInputs.cache
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.dll
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/refint/Unit 2 - Pig Latin Lab.dll
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.pdb
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/Unit 2 - Pig Latin Lab.genruntimeconfig.cache
+/Users/nik.kuehn/Projects/Unit 2 - Pig Latin Lab App/Unit 2 - Pig Latin Lab/obj/Debug/net6.0/ref/Unit 2 - Pig Latin Lab.dll
